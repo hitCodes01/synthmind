@@ -55,7 +55,7 @@ import {TravelNavigator} from './components/TravelNavigator/TravelNavigator';
 import { AIRecruiter } from './components/AIRecruiter/AIRecruiter';
 import { CodeCraft } from './components/CodeCraft/CodeCraft';
 import TherapyBot from './components/pages/Smartbots/TherapyBot';
-import { MoodMate } from './components/moodmate/moodmate';
+import { MoodMate } from './components/MoodMate/MoodMate';
 import {StressBuster} from './components/StressBuster/StressBuster';
 import MindCoach from './components/pages/Smartbots/MindCoach';
 import AnxietyAid from './components/pages/Smartbots/AnxietyAid';
