@@ -1,6 +1,6 @@
 import { createContext, useContext, useEffect, useState } from "react";
 
-const backendUrl = "http://54.211.145.249:3000"
+const backendUrl = "https://future-farm-micro.duckdns.org"
 
 
 const ChatContext = createContext();
